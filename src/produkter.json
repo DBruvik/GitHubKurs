@@ -5,7 +5,7 @@
     "id": 2,
     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6442f16d-e10a-4b3e-afa1-4614d282d0fb/renew-ride-3-road-running-shoes-6RP4QJ.png",
     "img2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6442f16d-e10a-4b3e-afa1-4614d282d0fb/renew-ride-3-road-running-shoes-6RP4QJ.png",
-    "price": 499,
+    "price": 499999999,
     "size": ["S", "M", "L"],
     "title": "COURT Master Pro"
 },
@@ -103,8 +103,8 @@
     "description": "Eksklusive, importerte sneakers med en elegant design og overlegen komfort, perfekt for motebevisste individer.",
     "id": 21,
     "title": "Lux Runners 88",
-    "price": 1200,
-    "size": ["39", "40", "41", "42", "43"],
+    "price": 120220,
+    "size": ["39", "40", "41", "42"],
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAX91Y76mrUc-rxXLudfzSO00_3KIzyk9HpWUy8RfoJx31VkNnP1I-tq2HV8zPqjTSEeI&usqp=CAU",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAX91Y76mrUc-rxXLudfzSO00_3KIzyk9HpWUy8RfoJx31VkNnP1I-tq2HV8zPqjTSEeI&usqp=CAU"
 },
